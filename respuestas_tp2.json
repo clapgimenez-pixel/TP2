@@ -3,7 +3,7 @@
     "tp_id": "TSO-2026-TP2",
     "title": "TP N° 2: Administración de Procesos, Hilos y Planificación de CPU",
     "catedra": "Teoría de Sistemas Operativos - UNJu Facultad de Ingeniería",
-    "submitted_at": "2026-09-12T22:43:57.474Z"
+    "submitted_at": "2026-09-12T23:21:27.499Z"
   },
   "student": {
     "name": "Claudia Gimenez",
@@ -53,7 +53,7 @@
     },
     "ej6_operaciones_procesos": {
       "op_fork_retorno": "opt_pid_hijo",
-      "op_exec_espacio": "opt_ejecuta_en_hilo",
+      "op_exec_espacio": "opt_reemplazo_total",
       "fenomeno_zombie": "opt_zombie_def",
       "fenomeno_huerfano": "opt_huerfano_init"
     },
